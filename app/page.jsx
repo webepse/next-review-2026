@@ -4,11 +4,7 @@ import {useEffect} from 'react'
 
 export default function HomePage(){
 
-    useEffect(()=>{
-        window.alert("Bienvenu sur mon site!")
-    })
-
-    console.log("[Rending]")
+    console.log("HomePage [Rending]")
 
     return (
        <>
