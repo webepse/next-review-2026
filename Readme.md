@@ -7,3 +7,5 @@
 ```git add .```
 
 ```git commit -a -m "création package.json avant install"```
+
+```npm install next react react-dom```
